@@ -1,4 +1,5 @@
-buenas caballero el trabajjo de hoy se basa en 
-: unyty : 
-creation of the sinematic power
-hola mundo
+-- comienzo explicacion de git para nuevos usuarios 
+
+1 . con : 'git clone https://github.com/RichardMolano/Pr_Fis.git' clonan el repo
+2 . con : 'git pull' con este actualzan el repo
+3 . con : 'git pull --rebase' 
