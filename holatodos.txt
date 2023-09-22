@@ -5,3 +5,5 @@
 3 . con : 'git pull --rebase' 
 
  y que dios se apiade de sus almas
+
+hoola mundo instalen noqseque 
