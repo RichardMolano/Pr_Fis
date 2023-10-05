@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.Editor.csproj": {}
+  },
+  "projects": {
+    "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.csproj",
+        "projectName": "Unity.Timeline",
+        "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.csproj",
+        "packagesPath": "C:\\Users\\Molan\\.nuget\\packages\\",
+        "outputPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Molan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.UI.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.UI.csproj"
+              },
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.Editor.csproj",
+        "projectName": "Unity.Timeline.Editor",
+        "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.Editor.csproj",
+        "packagesPath": "C:\\Users\\Molan\\.nuget\\packages\\",
+        "outputPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Molan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\Unity.Timeline.csproj"
+              },
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.TestRunner.csproj"
+              },
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.UI.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.UI.csproj"
+              },
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj"
+              },
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Molan\\.nuget\\packages\\",
+        "outputPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Molan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\Molan\\.nuget\\packages\\",
+        "outputPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Molan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEditor.TestRunner.csproj"
+              },
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj"
+              },
+              "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj": {
+                "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Molan\\.nuget\\packages\\",
+        "outputPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Molan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\Molan\\.nuget\\packages\\",
+        "outputPath": "d:\\U_usta\\Poyecto_F\\Pr_Fis\\Unity_pro\\My project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Molan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
