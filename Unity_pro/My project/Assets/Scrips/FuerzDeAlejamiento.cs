@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class FuerzDeAlejamiento : MonoBehaviour 
 {
     // llamar al script eperaciones y tomar valores de el game object txt
-
+    
     // definir radio de alejamiento
 
     public float radioDeAlejamiento = 10f;
@@ -13,7 +14,7 @@ public class FuerzDeAlejamiento : MonoBehaviour
     // definir fuerza de alejamiento
     public float fuerzaDeAlejamiento = 10f;
     // definir radio de alejamiento que nos da eperaciones
-
+    public leerTexto readText;
 
     // definir posicion de el player
     public Transform player;
@@ -28,8 +29,13 @@ public class FuerzDeAlejamiento : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        float distancia;
+
         // definir distancia entre el player y el objeto
-        float distancia = Vector3.Distance(transform.position, player.position);
+
+        distancia = Vector3.Distance(transform.position, player.position);
+        
+        
         // si la distancia es menor que el radio de alejamiento
         if (distancia < radioDeAlejamiento)
         {
@@ -41,18 +47,20 @@ public class FuerzDeAlejamiento : MonoBehaviour
             direccionDeAlejamiento = direccionDeAlejamiento.normalized * fuerza;
             // definir fuerza de alejamiento
             GetComponent<Rigidbody>().AddForce(direccionDeAlejamiento);
-        }
+        }else
         if (distancia > radioDeAlejamiento)
         {
-            Vector3 direccionDeAsercamiento2 =  player.position -transform.position ;
+            Vector3 direccionDeAsercamiento2 = player.position - transform.position ;
             
-            float fuerza = fuerzaDeAlejamiento / distancia;
+            float fuerza = fuerzaDeAlejamiento / (distancia*2);
 
             direccionDeAsercamiento2 = direccionDeAsercamiento2.normalized * fuerza;
 
             GetComponent<Rigidbody>().AddForce(direccionDeAsercamiento2);
-            
-        }
 
+        }
+        
+        
     }
+    // ditancia = raiz((K*q)/epsilon)
 }
